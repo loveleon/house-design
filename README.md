@@ -31,3 +31,6 @@
 * 小米净水器(橱下式)
 * 小米电视
 * 墙壁开关
+
+## Refs
+* [程序员装修防坑指南](https://ediwang.github.io/programmer-house-fit-up-unfucked/)
