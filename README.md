@@ -11,7 +11,7 @@
 
 ## 户型图
 
-![huxingd](huxingd.jpeg)
+![huxingd](house/huxingd.jpeg)
 
 ## 清包物料单
 
