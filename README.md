@@ -15,4 +15,4 @@
 
 ## 清包物料单
 
-* [BOM](box.xlsx)
+* [BOM](items/box.xlsx)
